@@ -4,18 +4,18 @@ Manufacturing of any alloy is not a simple process. Many complicated factors are
 Given are 28 distinguishing factors in the manufacturing of an alloy, your objective as a data scientist is to build a Machine Learning model that can predict the grade of the product using these factors.
 You are provided with 28 anonymized factors (f0 to f27) that influence the making of a perfect alloy that is to be used for various applications based on the grade/quality of the obtained product.
 
-#Data Description
+# Data Description
 The unzipped folder will have the following files.
 Train.csv – 620 observations.
 Test.csv – 266 observations.
 Sample Submission – Sample format for the submission.
 Target Variable: grade
 
-#Evaluation
+# Evaluation
 The leaderboard is evaluated using Multi Class Log loss (Cross-entropy loss) for the participant’s submission.
 
-#Rank : 2nd
+# Rank : 2nd
 
-#Online score : 0.0712930
+# Online score : 0.0712930
 
-#Local score : 0.09576929254572453
+# Local score : 0.09576929254572453
