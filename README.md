@@ -1,4 +1,4 @@
-# Metal Furnace Challenge : Weekend Hackathon #1
+# Machinehack Metal Furnace Challenge : Weekend Hackathon #1
 
 ![MetalFurnace-01-1536x864](https://user-images.githubusercontent.com/56091634/83670461-d5726700-a5f0-11ea-871e-8e51c5e8b444.jpg)
 
