@@ -17,6 +17,10 @@ Target Variable: grade
 The leaderboard is evaluated using Multi Class Log loss (Cross-entropy loss) for the participant’s submission.
 
 ## Rank : 2nd
+
+![metalfurnacewin](https://user-images.githubusercontent.com/56091634/84691145-47d43700-af61-11ea-8654-fdb2a0a42a07.png)
+
+
 Featured in Analytics India Magazine: https://analyticsindiamag.com/metal-furnace-challenge-winners/
 
 ## Online score : 0.0712930
